@@ -13,6 +13,7 @@ public class ErrorHandling {
 		}catch (Exception e) {
 			// TODO: handle exception
 			e.getMessage();
+			System.out.println("Test Git");
 		}
 	}
 }
